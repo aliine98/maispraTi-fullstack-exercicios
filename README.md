@@ -27,5 +27,6 @@ Instale as dependências
 Rode o arquivo usando node
 
 ```bash
-  node <nome-do-arquivo>.js
+  node <caminho/para/arquivo>.js
+  Ex: node lista-02/exercicio-01.js
 ```
