@@ -1,2 +1,2 @@
 > [!NOTE]
-> Instruções para rodar o projeto [aqui](https://github.com/aliine98/maispraTi-fullstack-exercicios/blob/main/README.md).
+> Instruções para rodar os exrcícios [aqui](https://github.com/aliine98/maispraTi-fullstack-exercicios/blob/main/README.md).
